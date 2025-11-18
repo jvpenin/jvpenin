@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm João Victor Penin Caldeira</h1>
-<h3 align="left">Passionate about data analysis, AI solutions, and robotics | Building intelligent solutions and leading tech innovation</h3>
+<h3 align="left">Passionate about data analysis, AI solutions, and robotics</h3>
+<h3 align="left">Building intelligent solutions and leading tech innovation</h3>
 
 - 🔭 I’m currently working on **Geração Caldeira - AI and Data Analysis Program**
 
