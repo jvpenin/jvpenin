@@ -2,8 +2,8 @@
 <h3 align="left">Passionate about softwares, data analysis, AI solutions, and tech leadership</h3>
 <h3 align="left">Building intelligent solutions and leading tech innovation</h3>
 
-- ▪️ I’m currently working on **Geração Caldeira - AI and Data Analysis Program**
-
+- ▪️ I’m a Software Engineering Student at **Institute of Technology and Leadership - Inteli**
+  
 - ▪️ I’m worked on **Geração Caldeira - AI and Data Analysis Program**
 
 - ▪️ I’m learning **Python, SQL, Power BI, Machine Learning**
