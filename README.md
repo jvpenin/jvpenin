@@ -1,14 +1,16 @@
-<h1 align="left">Hi 👋, I'm João Victor Penin Caldeira</h1>
-<h3 align="left">Passionate about data analysis, AI solutions, and robotics</h3>
+<h1 align="left">Hi, I'm João Victor Caldeira</h1>
+<h3 align="left">Passionate about softwares, data analysis, AI solutions, and tech leadership</h3>
 <h3 align="left">Building intelligent solutions and leading tech innovation</h3>
 
-- 🔭 I’m currently working on **Geração Caldeira - AI and Data Analysis Program**
+- ▪️ I’m currently working on **Geração Caldeira - AI and Data Analysis Program**
 
-- 🌱 I’m currently learning **Python, SQL, Power BI, Machine Learning**
+- ▪️ I’m worked on **Geração Caldeira - AI and Data Analysis Program**
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects and AI-driven Applications**
+- ▪️ I’m learning **Python, SQL, Power BI, Machine Learning**
 
-- ⚡ Fun fact **National and international robotics programmer - won awards in the world's largest robotics competitions including FIRST Robotics Competition (FRC)**
+- ▪️ I’m looking to collaborate on **Data Analysis Projects and AI-driven Applications**
+
+- ⚡ Fun fact **National & International Robotics Programmer - won awards in the world's largest robotics competitions including FIRST Robotics Competition (FRC)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
