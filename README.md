@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm João Victor Caldeira</h1>
-<h3 align="left">Passionate about softwares, data analysis, AI solutions, and tech leadership</h3>
+<h3 align="left">Passionate about eng software, data analysis, AI solutions, and tech leadership</h3>
 <h3 align="left">Building intelligent solutions and leading tech innovation</h3>
 
 - ▪️ I’m a Software Engineering Student at **Institute of Technology and Leadership - Inteli**
